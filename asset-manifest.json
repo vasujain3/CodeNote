@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeNote/static/css/main.c6fbb42c.css",
+    "main.js": "/CodeNote/static/js/main.0eec2da3.js",
+    "index.html": "/CodeNote/index.html",
+    "main.c6fbb42c.css.map": "/CodeNote/static/css/main.c6fbb42c.css.map",
+    "main.0eec2da3.js.map": "/CodeNote/static/js/main.0eec2da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6fbb42c.css",
+    "static/js/main.0eec2da3.js"
+  ]
+}
